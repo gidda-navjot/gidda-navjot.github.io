@@ -31,6 +31,9 @@ nav {
 
 header {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 4px;
 }
